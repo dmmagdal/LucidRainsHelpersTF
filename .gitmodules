@@ -1,0 +1,3 @@
+[submodule "RotaryEmbeddingTF"]
+	path = RotaryEmbeddingTF
+	url = https://github.com/dmmagdal/RotaryEmbeddingTF
