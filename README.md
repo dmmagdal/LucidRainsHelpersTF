@@ -13,19 +13,19 @@ Description: This repo is a collection of all the helper modules I have implemen
 ### Local Attention
 
  * [Original Repo](https://github.com/lucidrains/local-attention)
- * [My Repo]()
+ * [My Repo](https://github.com/dmmagdal/LocalAttentionTF)
  * Status: Not started
 
 
 ### Axial Positional Embedding
 
  * [Original Repo](https://github.com/lucidrains/axial-positional-embedding)
- * [My Repo]()
+ * [My Repo](https://github.com/dmmagdal/AxialPositionalEmbeddingTF)
  * Status: Not started
 
 
 ### Product Key Memory
 
  * [Original Repo](https://github.com/lucidrains/product-key-memory)
- * [My Repo]()
+ * [My Repo](https://github.com/dmmagdal/ProductKeyMemoryTF)
  * Status: Not started

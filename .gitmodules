@@ -1,3 +1,12 @@
 [submodule "RotaryEmbeddingTF"]
 	path = RotaryEmbeddingTF
 	url = https://github.com/dmmagdal/RotaryEmbeddingTF
+[submodule "LocalAttentionTF"]
+	path = LocalAttentionTF
+	url = https://github.com/dmmagdal/LocalAttentionTF
+[submodule "AxialPositionalEmbeddingTF"]
+	path = AxialPositionalEmbeddingTF
+	url = https://github.com/dmmagdal/AxialPositionalEmbeddingTF
+[submodule "ProductKeyMemoryTF"]
+	path = ProductKeyMemoryTF
+	url = https://github.com/dmmagdal/ProductKeyMemoryTF
